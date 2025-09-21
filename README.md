@@ -1,16 +1,14 @@
-# businesscardap
+📇 Business Card App
 
-A new Flutter project.
+A sleek and simple Flutter application that displays a digital business card. Perfect for showcasing your professional identity with style and minimalism.
+🚀 Features
 
-## Getting Started
+    Elegant UI with profile image, name, job title, and contact details
 
-This project is a starting point for a Flutter application.
+    Responsive layout for different screen sizes
 
-A few resources to get you started if this is your first Flutter project:
+    Custom fonts and color themes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Tap-to-call and tap-to-email functionality (optional)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 Screenshots
